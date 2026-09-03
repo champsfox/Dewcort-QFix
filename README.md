@@ -1,20 +1,20 @@
-# Dewcort Q-Fix
+# QFix
 
 ## Verified & Licensed Technicians Across Nigeria
 
-**Dewcort Q-Fix** is a technology-enabled technical services platform designed to connect customers with **verified and licensed technicians and service professionals across Nigeria**.
+**QFix** is a technology-enabled technical services platform designed to connect customers with **verified and licensed technicians and service professionals across Nigeria**.
 
 From electrical and mechanical services to plumbing, HVAC, fire protection, maintenance, and other technical solutions, Dewcort Q-Fix is built to make it easier to **find the right professional, request technical assistance, and get reliable solutions delivered efficiently.**
 
-> **Professional. Verified. Reliable. Q-Fix.**
+> **Professional. Verified. Reliable. QFix.**
 
 ---
 
-## 🌍 About Dewcort Q-Fix
+## 🌍 About QFix
 
 Finding a reliable technician should not be difficult.
 
-Dewcort Q-Fix brings technical service providers and customers into one professional ecosystem, helping individuals, businesses, property owners, facility managers, and organisations access dependable technical expertise.
+QFix brings technical service providers and customers into one professional ecosystem, helping individuals, businesses, property owners, facility managers, and organisations access dependable technical expertise.
 
 The platform is built around three core principles:
 
@@ -22,7 +22,7 @@ The platform is built around three core principles:
 * **Quality** — Promoting professional standards and dependable service delivery.
 * **Convenience** — Making it easier to find and request technical services.
 
-Dewcort Q-Fix is part of the broader Dewcort ecosystem, leveraging years of experience in engineering, MEPF services, project delivery, procurement, consulting, and technical solutions.
+QFix is part of the broader Dewcort ecosystem, leveraging years of experience in engineering, MEPF services, project delivery, procurement, consulting, and technical solutions.
 
 ---
 
@@ -37,11 +37,12 @@ Customers can discover professionals across a broad range of technical disciplin
 * Plumbing Services
 * HVAC & Air Conditioning
 * Fire Protection & Fire Fighting
+* MEPF Services
 * Generator & Power Solutions
 * Building Maintenance
 * Facility Maintenance
 * Installation & Repairs
-* MEPF Services
+* Sales & Delivery 
 * Equipment Maintenance
 * General Technical Services
 
@@ -61,7 +62,7 @@ Verification may include relevant:
 
 ### 📍 Location-Based Services
 
-Dewcort Q-Fix is designed with Nigeria-wide accessibility in mind, allowing customers to find technical professionals serving their location.
+QFix is designed with Nigeria-wide accessibility in mind, allowing customers to find technical professionals serving their location.
 
 ### 📲 Service Requests
 
@@ -69,7 +70,7 @@ Customers can request technical assistance and communicate their service require
 
 ### 🏢 Business & Facility Support
 
-Dewcort Q-Fix can support:
+QFix can support:
 
 * Residential properties
 * Commercial buildings
@@ -95,7 +96,7 @@ To build one of Nigeria's most trusted digital ecosystems for connecting custome
 
 # 🛠️ Technology
 
-The current Dewcort Q-Fix web application is designed as a lightweight, responsive web experience.
+The current QFix web application is designed as a lightweight, responsive web experience.
 
 ### Core Technologies
 
@@ -113,7 +114,7 @@ The current Dewcort Q-Fix web application is designed as a lightweight, responsi
 The project is intentionally kept simple and scalable.
 
 ```text
-Dewcort-QFix/
+QFix/
 │
 ├── index.html
 ├── README.md
@@ -139,13 +140,13 @@ Dewcort-QFix/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/champsfox/Dewcort-QFix.git
+git clone https://github.com/champsfox/QFix.git
 ```
 
 Navigate into the project directory:
 
 ```bash
-cd Dewcort-QFix
+cd QFix
 ```
 
 ---
@@ -171,7 +172,7 @@ For example, with VS Code and the Live Server extension:
 
 # ☁️ Deployment with Vercel
 
-Dewcort Q-Fix is designed to work seamlessly with **Vercel** for production deployment.
+QFix is designed to work seamlessly with **Vercel** for production deployment.
 
 ## Deploy from GitHub
 
@@ -188,7 +189,7 @@ For the current static application, no complex build process is required.
 The main entry point should be located at the root of the repository:
 
 ```text
-Dewcort-QFix/
+QFix/
 └── index.html
 ```
 
@@ -216,7 +217,7 @@ Production Branch
 Vercel
     │
     ▼
-Dewcort Q-Fix
+   QFix
 ```
 
 Every production update can be managed through GitHub and automatically deployed through Vercel.
@@ -225,7 +226,7 @@ Every production update can be managed through GitHub and automatically deployed
 
 # 🔐 Security & Trust
 
-Trust is central to the Dewcort Q-Fix concept.
+Trust is central to the QFix concept.
 
 As the platform develops, verification and security features may include:
 
@@ -245,7 +246,7 @@ The platform will continue to evolve its verification framework as additional ba
 
 # 📱 Responsive Design
 
-Dewcort Q-Fix is designed to provide a consistent experience across:
+QFix is designed to provide a consistent experience across:
 
 * 📱 Mobile phones
 * 📲 Tablets
@@ -265,7 +266,7 @@ The interface prioritises:
 
 # 🇳🇬 Built for Nigeria
 
-Dewcort Q-Fix is designed specifically with the Nigerian market in mind.
+QFix is designed specifically with the Nigerian market in mind.
 
 The platform aims to address everyday challenges associated with finding dependable technical professionals, including:
 
@@ -276,13 +277,13 @@ The platform aims to address everyday challenges associated with finding dependa
 * Lack of structured technical service discovery
 * Communication gaps between customers and technicians
 
-By creating a structured digital ecosystem, Dewcort Q-Fix aims to make professional technical services easier to discover and access.
+By creating a structured digital ecosystem, QFix aims to make professional technical services easier to discover and access.
 
 ---
 
 # 🏗️ Dewcort Engineering Ecosystem
 
-Dewcort Q-Fix is connected to the broader Dewcort Engineering ecosystem.
+QFix is connected to the broader Dewcort Engineering ecosystem.
 
 Dewcort's experience spans areas including:
 
@@ -298,20 +299,20 @@ Dewcort's experience spans areas including:
 * Design & Build
 * Infrastructure Solutions
 
-The Q-Fix platform extends this technical experience into a more accessible digital service model.
+The QFix platform extends this technical experience into a more accessible digital service model.
 
 ---
 
 # 🔮 Product Roadmap
 
-Dewcort Q-Fix is designed to grow into a comprehensive technical services marketplace.
+QFix is designed to grow into a comprehensive technical services marketplace.
 
 Planned capabilities may include:
 
 ### Phase 1 — Foundation
 
 * [x] Responsive landing page
-* [x] Dewcort Q-Fix branding
+* [x] QFix branding
 * [x] Service categories
 * [x] Customer-focused navigation
 * [x] Vercel deployment
@@ -358,9 +359,9 @@ Planned capabilities may include:
 
 ---
 
-# 👥 Who Is Dewcort Q-Fix For?
+# 👥 Who Is QFix For?
 
-Dewcort Q-Fix is designed to serve:
+QFix is designed to serve:
 
 ### Individuals & Families
 
@@ -388,7 +389,7 @@ For companies requiring structured access to technical professionals and service
 
 ---
 
-# 💡 Why Dewcort Q-Fix?
+# 💡 Why QFix?
 
 ### Customers get:
 
@@ -470,7 +471,7 @@ git push origin feature/your-feature
 
 # 🧪 Development Guidelines
 
-When contributing to Dewcort Q-Fix:
+When contributing to QFix:
 
 * Keep the interface responsive.
 * Maintain clean and readable code.
@@ -488,7 +489,7 @@ When contributing to Dewcort Q-Fix:
 
 **Current Status:** 🚀 Active Development
 
-Dewcort Q-Fix is currently being developed as a digital platform for connecting customers with verified technical professionals across Nigeria.
+QFix is currently being developed as a digital platform for connecting customers with verified technical professionals across Nigeria.
 
 The current version focuses on the platform's web presence, user experience, branding, service presentation, and deployment foundation.
 
@@ -502,7 +503,7 @@ Additional marketplace, verification, account, payment, and backend capabilities
 
 Lagos, Nigeria
 
-**Dewcort Q-Fix**
+**QFix**
 
 > Verified & Licensed Technicians Across Nigeria
 
@@ -512,21 +513,19 @@ For business enquiries, partnerships, technical services, and collaboration, ple
 
 # 🏷️ Brand
 
-**Dewcort Q-Fix**
+**QFix**
 
 **Professional. Verified. Reliable.**
 
 ---
 
-## © 2026 Dewcort Engineering Ltd
+## © 2026 QFix is a product of Dewcort Engineering Ltd
 
 All rights reserved.
-
-Dewcort Q-Fix is a product initiative of **Dewcort Engineering Ltd**.
 
 ---
 
 ### Built with purpose. Engineered for reliability.
 
-**Dewcort Q-Fix — Making trusted technical services easier to find.**
+**QFix — Making trusted technical services easier to find.**
 
